@@ -1,4 +1,3 @@
-# Web-Client
     Acest program realizeaza un client web prin care putem comunica cu un server api si
 trimite comenzi pentru a obtine informatii despre o biblioteca. Pentru realizarea acestuia,
 am folosit ca schelet laboratorul 9 (fisierele buffer sunt neschimbate, dar apar mai multe functii
